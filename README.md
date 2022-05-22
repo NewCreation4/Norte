@@ -17,6 +17,6 @@ node <location of the lang.js file> <your code>
 
 first:
 
-Install required staff with: norte setup
+Install required stuff with: norte setup
 
 ```
